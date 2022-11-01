@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firdavs Yusupov</h1>
 <img align="center" alt="Coding" src="https://www.lambdatest.com/resources/images/news24.gif">
-<h3 align="center">I'm Junior Data Scientist</h3>
+<h3 align="center">I'm on my way to the JUNIOR Backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firdavsyusupov&label=Profile%20views&color=0e75b6&style=flat" alt="firdavsyusupov" /> </p>
 
