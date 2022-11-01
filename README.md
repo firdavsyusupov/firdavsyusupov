@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firdavsyusupov&label=Profile%20views&color=0e75b6&style=flat" alt="firdavsyusupov" /> </p>
 
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Backend(Django)**
 
 - 🤝 I’m looking for help with **Backend developer**
 
