@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Firdavs Yusupov</h1>
+<!-- <h1 align="center">Hi 👋, I'm Firdavs Yusupov</h1> -->
 <!-- <img align="center" alt="Coding" src="https://www.lambdatest.com/resources/images/news24.gif"> -->
 <h1 align="center">
   <img src="name.svg" alt="firdavsyusupov" />
