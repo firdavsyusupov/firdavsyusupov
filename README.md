@@ -71,9 +71,9 @@
 ## Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <div>
+  <!-- <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=firdavsyusupov&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="firdavsyusupov"/>
-  </div>
+  </div> -->
   <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdavsyusupov&theme=blue-green" alt="firdavsyusupov" />
   </div>
